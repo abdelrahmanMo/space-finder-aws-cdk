@@ -1,0 +1,35 @@
+{
+  "name": "space-finder-aws-cdk",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abdelrahmanMo/space-finder-aws-cdk.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/abdelrahmanMo/space-finder-aws-cdk/issues"
+  },
+  "homepage": "https://github.com/abdelrahmanMo/space-finder-aws-cdk#readme",
+  "devDependencies": {
+    "@types/node": "^16.7.10",
+    "aws-cdk": "^1.121.0",
+    "aws-cdk-lib": "^2.0.0-rc.20",
+    "constructs": "^10.0.5",
+    "esbuild": "^012.25",
+    "ts-node": "^10.2.1",
+    "typescript": "^4.4.2"
+  },
+  "dependencies": {
+    "@types/aws-lambda": "^8.10.83",
+    "@types/uuid": "^8.3.1",
+    "aws-sdk": "^2.983.0",
+    "uuid": "^8.3.2"
+  }
+}
